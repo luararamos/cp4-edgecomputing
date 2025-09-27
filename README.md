@@ -2,16 +2,20 @@
 
 O seu projeto evoluiu! Com o novo checkpoint, o foco passa a ser a integração do sistema de monitoramento da vinheria com o ecossistema de negócios da União Europeia, utilizando a plataforma **FIWARE** como backend.
 
+📺 **Veja o vídeo explicativo do projeto 👉 [**Clique aqui**](https://youtu.be/_eXlb5e-gMw)**
+
 ---
 
 ## 👥 Equipe do Projeto
 
-| Nome | RM |
-|---|---|
-| Luara Martins de Oliveira Ramos | 565573 |
-| Ana Luiza Tibiriçá da Paixão | 562098 | 
-| Áurea Sardinha Carminato | 563837 | 
-| Laura Tigre Amaral | 565281 | 
+| Nome | RM | E-mail |
+|---|---|---|
+| Luara Martins de Oliveira Ramos | 565573 | rm565573@fiap.com.br |
+| Kaio Victtor Santos Andrade Galvão | 566536 | rm566536@fiap.com.br |
+| Jean Pierre Andrade Feltran | 566534 | rm566534@fiap.com.br |
+| Ana Luiza Tibiriçá da Paixão | 562098 | (e-mail) |
+| Áurea Sardinha Carminato | 563837 | (e-mail) |
+| Laura Tigre Amaral | 565281 | (e-mail) |
 
 ---
 
@@ -53,4 +57,3 @@ Atua como a ponte entre os sensores e a plataforma. Ele recebe os dados via MQTT
 Ambiente simulado do circuito 👉 [**Clique aqui**](https://wokwi.com/projects/442224876686434305)
 
 ---
-
