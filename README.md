@@ -2,7 +2,7 @@
 
 O seu projeto evoluiu! Com o novo checkpoint, o foco passa a ser a integração do sistema de monitoramento da vinheria com o ecossistema de negócios da União Europeia, utilizando a plataforma **FIWARE** como backend.
 
-📺 **Veja o vídeo explicativo do projeto 👉 [**Clique aqui**](https://youtu.be/_eXlb5e-gMw)**
+📺 **Veja o vídeo explicativo do projeto 👉 [**Clique aqui**](https://youtu.be/G4d_9oMqOck)**
 
 ---
 
@@ -63,6 +63,7 @@ Atua como a ponte entre os sensores e a plataforma. Ele recebe os dados via MQTT
 Ambiente simulado do circuito 👉 [**Clique aqui**](https://wokwi.com/projects/443101891666438145)
 
 ---
+
 
 
 
