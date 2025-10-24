@@ -52,7 +52,8 @@ Atua como a ponte entre os sensores e a plataforma. Ele recebe os dados via MQTT
 
 ## 🧪 Montagem do Circuito
 
-Ambiente simulado do circuito 👉 [**Clique aqui**](https://wokwi.com/projects/442224876686434305)
+Ambiente simulado do circuito 👉 [**Clique aqui**](https://wokwi.com/projects/443101891666438145)
 
 ---
+
 
