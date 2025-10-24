@@ -1,4 +1,4 @@
-# Checkpoint 04 - O Caso da Vinheria Agnello - IoT
+<img width="947" height="416" alt="image" src="https://github.com/user-attachments/assets/eb97e7da-2377-4abd-a834-b8b0573ab29f" /># Checkpoint 05 - O Caso da Vinheria Agnello - IoT
 
 O seu projeto evoluiu! Com o novo checkpoint, o foco passa a ser a integração do sistema de monitoramento da vinheria com o ecossistema de negócios da União Europeia, utilizando a plataforma **FIWARE** como backend.
 
@@ -52,6 +52,10 @@ Atua como a ponte entre os sensores e a plataforma. Ele recebe os dados via MQTT
 - Cada leitura inclui um **timestamp** (carimbo de tempo) para fins de rastreabilidade.
 - A **interface** para acessar as informações deve estar em conformidade com o padrão **NGSI**.
 
+
+![cp5-com-marcacoes](https://github.com/user-attachments/assets/f4a4a1f3-e8d8-447d-89ee-fbca1bc984a2)
+
+
 ---
 
 ## 🧪 Montagem do Circuito
@@ -59,6 +63,7 @@ Atua como a ponte entre os sensores e a plataforma. Ele recebe os dados via MQTT
 Ambiente simulado do circuito 👉 [**Clique aqui**](https://wokwi.com/projects/443101891666438145)
 
 ---
+
 
 
 
