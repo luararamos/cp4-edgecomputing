@@ -20,6 +20,9 @@ O seu projeto evoluiu! Com o novo checkpoint, o foco passa a ser a integração 
 ## 💻 Desenvolvimento
 
 ### 🛠️ Componentes do Backend e IoT
+
+<img width="761" height="386" alt="foto-funcionando" src="https://github.com/user-attachments/assets/5bb7d7c9-b43b-4f0d-b13c-c0154178aeb7" />
+
 O projeto agora integra os sensores da vinheria com uma plataforma robusta de backend.
 
 - **Servidor FIWARE:** Backend principal da solução para interoperar com o mercado europeu.
@@ -30,6 +33,7 @@ O projeto agora integra os sensores da vinheria com uma plataforma robusta de ba
 ---
 
 ## ⚙️ Explicação dos Componentes FIWARE
+
 
 ### Orion Context Broker
 Gerencia os dados coletados pelos sensores em tempo real. Ele armazena as informações e as disponibiliza para outras aplicações.
@@ -55,5 +59,6 @@ Atua como a ponte entre os sensores e a plataforma. Ele recebe os dados via MQTT
 Ambiente simulado do circuito 👉 [**Clique aqui**](https://wokwi.com/projects/443101891666438145)
 
 ---
+
 
 
